@@ -1,0 +1,18 @@
+{
+  "name": "day2-p1",
+  "homepage": "https://github.com/samnith/day2-p1",
+  "authors": [
+    "samnith <tatsamnith083@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
